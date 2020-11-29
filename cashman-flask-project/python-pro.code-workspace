@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../sqlalchemy-tutorial"
+		},
+		{
+			"path": ".."
 		}
 	],
 	"settings": {}
