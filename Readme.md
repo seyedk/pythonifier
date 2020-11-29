@@ -1,4 +1,4 @@
-This Python tutorials are crdit to `Bruno Krebs`, and is for my personal use only. 
+This Python tutorials are credits to `Bruno Krebs`, and is for my personal use only. 
 
 For more restful services please refer to 
 
